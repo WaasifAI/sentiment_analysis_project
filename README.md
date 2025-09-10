@@ -40,7 +40,7 @@ Sentiment-Analysis-Project/
 
 1. Clone this repository:  
 ```bash
-git clone https://github.com/WAASIFAI/Sentiment-Analysis-Project.git
+git clone https://github.com/WaasifAI/Sentiment-Analysis-Project.git
 cd Sentiment-Analysis-Project
 pip install -r requirements.txt
 python sentiment_analysis.py
